@@ -32,8 +32,6 @@ All designs follow standard electrical engineering practices and safety consider
 
 
 
-!\[conduits](Images/conduits.png)
-
 ###### **🗂️ Repository Structure**
 
 ```
