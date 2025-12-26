@@ -6,7 +6,7 @@ This repository contains the complete **Electrical Services Design** project dev
 
 
 
-!\[conduits](Images/conduits.png)
+![conduits](Images/conduits.png)
 
 
 
@@ -154,7 +154,7 @@ Each layout is designed to ensure optimal illumination, safety, and ease of main
 
 
 
-!\[fittings](Images/fittings.png)
+![fittings](Images/fittings.png)
 
 
 
