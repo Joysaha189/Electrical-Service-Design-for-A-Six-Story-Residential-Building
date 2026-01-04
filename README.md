@@ -25,7 +25,7 @@ All designs follow standard electrical engineering practices and safety consider
 
 ## 🗂️ Repository Structure
 
-'''''
+```
 
 ├── Autocad Files/
 
@@ -67,7 +67,7 @@ All designs follow standard electrical engineering practices and safety consider
 └── README.md
 
 
-''''
+```
 ---
 
 ## 🧩 Final Layout Description
