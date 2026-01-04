@@ -25,6 +25,8 @@ All designs follow standard electrical engineering practices and safety consider
 
 ## 🗂️ Repository Structure
 
+'''''
+
 ├── Autocad Files/
 
 │ ├── Ground Floor Layouts
@@ -65,7 +67,7 @@ All designs follow standard electrical engineering practices and safety consider
 └── README.md
 
 
-
+''''
 ---
 
 ## 🧩 Final Layout Description
