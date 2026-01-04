@@ -26,23 +26,36 @@ All designs follow standard electrical engineering practices and safety consider
 ## 🗂️ Repository Structure
 
 ├── Autocad Files/
+
 │ ├── Ground Floor Layouts
+
 │ ├── 1st–5th Floor Layouts
+
 │ ├── Fittings & Fixtures Drawings
+
 │ ├── Conduit Layouts
+
 │ ├── Switchboard Diagrams
+
 │ ├── SDB, ESDB, MDB Diagrams
 │ └── Lightning Protection Layout
 │
 ├── Deliverables/
+
 │ ├── Project Report.pdf
+
 │ └── Final Presentation.pptx
 │
 ├── Final Layout/
+
 │ ├── Floor-wise Electrical Layouts
+
 │ ├── Lighting & Power Fittings
+
 │ ├── Conduit Routing
+
 │ ├── Distribution Board Placement
+
 │ └── Emergency & Backup System Layouts
 │
 └── README.md
