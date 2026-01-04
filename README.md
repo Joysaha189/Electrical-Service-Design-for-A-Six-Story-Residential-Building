@@ -38,14 +38,17 @@ All designs follow standard electrical engineering practices and safety consider
 │ ├── Switchboard Diagrams
 
 │ ├── SDB, ESDB, MDB Diagrams
+
 │ └── Lightning Protection Layout
 │
+
 ├── Deliverables/
 
 │ ├── Project Report.pdf
 
 │ └── Final Presentation.pptx
 │
+
 ├── Final Layout/
 
 │ ├── Floor-wise Electrical Layouts
